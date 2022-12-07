@@ -26,6 +26,7 @@ To use your API key with the Whisper Chatbot, you will need to add it to the con
 {
   "api_key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 }
+
 Simply replace the xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx placeholder with your actual API key, and save the file. The Whisper Chatbot will then use this API key to access the HuggingFace Whisper-Tiny API.
 
 Note that you will need to obtain an API key from HuggingFace as described in the Usage section of the README.
