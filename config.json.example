@@ -1,4 +1,7 @@
 {
-    "email": "<email>",
-    "password": "<password>"
+    "email": "<Your OpenAI email>",
+    "password": "<Your OpenAI password>",
+    "API_URL": "https://api-inference.huggingface.co/models/openai/whisper-small",
+    "TOKEN": "<YOUR WHISPER TOKEN>"
+
 }
