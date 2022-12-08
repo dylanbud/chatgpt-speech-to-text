@@ -58,4 +58,8 @@ Exiting program
 
 ## License
 
-See LICENSE.md for more information.
+See LICENSE for more information.
+
+## Credits
+
+Credit to [Rawand Ahmed Shaswar for PyChatGPT](https://github.com/rawandahmad698/)
